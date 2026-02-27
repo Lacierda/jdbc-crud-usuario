@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 # 📌 CRUD de Usuários com JDBC e MySQL
 
 Aplicação Java utilizando JDBC para realizar operações CRUD em um banco de dados MySQL.
